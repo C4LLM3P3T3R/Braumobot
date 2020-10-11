@@ -1,10 +1,11 @@
 .err{
     position: absolute;               /* 2 */
-   top: 50%;   
-   left: 50%;                      /* 3 */
-   transform: translate(-50%, -50%);
-   font-size: 72px;
-
+    top: 50%;   
+    left: 50%;                      /* 3 */
+    transform: translate(-50%, -50%);
+    font-size: 72px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;    
    
 }
 .err404{
